@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-02T18:26:24.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="8HUwlRdajuvgtk-1lRIY" version="13.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-02T19:42:14.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="Gw1AwCa7Bo948lEXc8xj" version="13.0.3" type="github" pages="2">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="786" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kl8qQYA02xBKlzXBSOi5" name="Страница 2">
-    <mxGraphModel dx="786" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8EefFQ9DCro9YluvdsVC-0" />
         <mxCell id="8EefFQ9DCro9YluvdsVC-1" parent="8EefFQ9DCro9YluvdsVC-0" />
@@ -143,11 +143,6 @@
             <mxPoint x="125" y="150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="8EefFQ9DCro9YluvdsVC-12">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8EefFQ9DCro9YluvdsVC-23">
-            <mxGeometry x="240" y="160" width="130" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="8EefFQ9DCro9YluvdsVC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8EefFQ9DCro9YluvdsVC-23" source="8EefFQ9DCro9YluvdsVC-2" target="8EefFQ9DCro9YluvdsVC-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -180,6 +175,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="25" y="320" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8EefFQ9DCro9YluvdsVC-25" value="" style="group" vertex="1" connectable="0" parent="8EefFQ9DCro9YluvdsVC-23">
+          <mxGeometry x="300" y="140" width="130" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;br&gt;Organization" treeRoot="1" id="8EefFQ9DCro9YluvdsVC-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8EefFQ9DCro9YluvdsVC-25">
+            <mxGeometry width="130" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8EefFQ9DCro9YluvdsVC-24" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="8EefFQ9DCro9YluvdsVC-25">
+          <mxGeometry x="42.5" y="6" width="45" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
